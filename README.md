@@ -1,5 +1,6 @@
 # Agency
 
+Modern Digital Marketing Agency Website using Next JS, TailwindCSS, and Stripe integration
 This is a Next.js project bootstrapped with create-next-app.
 
 ## Getting Started
